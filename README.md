@@ -27,7 +27,6 @@ Este desafio consiste em extrair dados de um PostgreSQL, transformá-los em parq
 
 - E necessaria a conexao ao banco [PostgreSQL](https://uibakery.io/sql-playground) disponibilizado no desafio
 
-
 **OBS**Este banco pode ser visualizado usando o [DBeaver](https://dbeaver.io/download/).
 
 ## Executando o Desafio
@@ -48,7 +47,7 @@ Antes de tudo é necessário a criação da conta na Azure, após isto, basta se
 
 O código para execução está no arquivo ``main.ipynb``
 
-Para executá-lo no Databricks, basta copiar cada etapa e colar em algum notebook criado, ou importar o arquivo para o Databricks.
+Para executá-lo no Databricks, basta copiar cada etapa e colar em algum notebook criado, ou [importar o arquivo](https://learn.microsoft.com/pt-br/azure/databricks/notebooks/notebook-export-import) para o Databricks.
 
 ## Fluxo dos Dados
 
