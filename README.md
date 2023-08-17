@@ -1,33 +1,34 @@
 # Extraindo dados do PostgreSQL para o Databricks
 
-Este projeto tem como objetivo a resolucao do desafio tecnico da Vertigo tecnologia.
+Este projeto tem como objetivo a resolução do desafio técnico da Vertigo tecnologia.
 
-Este desafio consiste em extrair dados de um PostgreSQL, tarnsforma-los em parquet, analisa-los e entao disponibilizar as analises em tabelas com o formato delta.
+Este desafio consiste em extrair dados de um PostgreSQL, transformá-los em parquet, analisá-los e então disponibilizar as análises em tabelas com o formato delta.
 
 ## Tecnologias
-  <table>
+<table>
     <tr>
-      <td>Cloud</td>
-      <td>Codigo</td>
-      <td>Banco de Dados</td>
-      <td>Outros</td>
+        <td>Cloud</td>
+        <td>Código</td>
+        <td>Banco de Dados</td>
+        <td>Outros</td>
     </tr>
-      <tr>
-      <td>Azure Databricks</td>
-      <td>Python/PySpark</td>
-      <td>PostgreSQL</td>
-      <td>DBeaver/dbdiagram.io</td>
+    <tr>
+        <td>Azure Databricks</td>
+        <td>Python/PySpark</td>
+        <td>PostgreSQL</td>
+        <td>DBeaver/dbdiagram.io</td>
     </tr>
-  </table>
+</table>
 
-## Prerequisitos
-- E necessario a criacao de uma conta na [Azure](https://azure.microsoft.com/pt-br/free/).
+## Pré Requisitos
+- É necessário a criação de uma conta na [Azure](https://azure.microsoft.com/pt-br/free/).
 
-**OBS**: E possivel conseguir credito de graca para executar o projeto.
+**OBS**É possível conseguir crédito de graça para executar o projeto.
 
 - E necessaria a conexao ao banco [PostgreSQL](https://uibakery.io/sql-playground) disponibilizado no desafio
 
-**OBS**: Este banco pode ser visualizado usando o [DBeaver](https://dbeaver.io/download/).
+
+**OBS**Este banco pode ser visualizado usando o [DBeaver](https://dbeaver.io/download/).
 
 ## Executando o Desafio
 
@@ -38,16 +39,16 @@ Link para o [dbdiagram.io](https://dbdiagram.io/home)
 
 ### Criando um notebook no Databricks.
 
-Antes de tudo e necessario a criacao da conta na Azure, apos isto, basta seguir as seguintes documentacoes:
+Antes de tudo é necessário a criação da conta na Azure, após isto, basta seguir as seguintes documentações:
 
 - [Configuracao da Azure](https://learn.microsoft.com/pt-br/azure/databricks/getting-started/)
 - [Criando Notebook](https://docs.databricks.com/pt/getting-started/quick-start.html)
 
-### Execucao do codigo
+### Execução do código
 
-O codigo para execucao esta no arquivo ``main.ipynb``
+O código para execução está no arquivo ``main.ipynb``
 
-Para executa-lo no Databricks, basta copiar cada etapa e colar em algum notebook criado, ou importar o arquivo para o Databricks.
+Para executá-lo no Databricks, basta copiar cada etapa e colar em algum notebook criado, ou importar o arquivo para o Databricks.
 
 ## Fluxo dos Dados
 
