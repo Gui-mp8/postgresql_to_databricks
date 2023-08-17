@@ -25,7 +25,7 @@ Este desafio consiste em extrair dados de um PostgreSQL, transformá-los em parq
 
 **OBS**É possível conseguir um período gratuito de utilização e créditos para serem utilizados.
 
-- E necessaria a conexao ao banco [PostgreSQL](https://uibakery.io/sql-playground) disponibilizado no desafio
+- E necessária a conexão ao banco ``Ecommerce website database`` neste [site](https://uibakery.io/sql-playground). Ele é um banco ``PostgreSQL``.
 
 **OBS**Este banco pode ser visualizado usando o [DBeaver](https://dbeaver.io/download/).
 
