@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo a resolução do desafio técnico da Vertigo tecnologia.
 
-Este desafio consiste em extrair dados de um PostgreSQL, transformá-los em parquet, analisá-los e então disponibilizar as análises em tabelas com o formato delta.
+Este desafio consiste em extrair dados de um PostgreSQL, transformá-los em parquet, analisá-los e então disponibilizar as análises em tabelas no formato Delta.
 
 ## Tecnologias
 <table>
@@ -23,7 +23,7 @@ Este desafio consiste em extrair dados de um PostgreSQL, transformá-los em parq
 ## Pré Requisitos
 - É necessário a criação de uma conta na [Azure](https://azure.microsoft.com/pt-br/free/).
 
-**OBS**É possível conseguir crédito de graça para executar o projeto.
+**OBS**É possível conseguir um período gratuito de utilização e créditos para serem utilizados.
 
 - E necessaria a conexao ao banco [PostgreSQL](https://uibakery.io/sql-playground) disponibilizado no desafio
 
