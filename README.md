@@ -29,6 +29,8 @@ Este desafio consiste em extrair dados de um PostgreSQL, transformá-los em parq
 
 **OBS**: Este banco pode ser visualizado usando o [DBeaver](https://dbeaver.io/download/).
 
+[Tutorial para a Conexão entre o Dbeaver e o PostgreSQL.](https://alexdepaula18.medium.com/conectando-no-banco-de-dados-postgresql-utilizando-dbeaver-community-1275f4c9bcba)
+
 ## Executando o Desafio
 
 ### Diagrama de ER do banco disponibilizado.
