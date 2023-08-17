@@ -53,6 +53,4 @@ Para executá-lo no Databricks, basta copiar cada etapa e colar em algum noteboo
 
 ## Fluxo dos Dados
 
-![vertigo drawio (1)](https://github.com/Gui-mp8/postgresql_to_databricks/assets/94998733/fd5e69aa-a166-4032-99bb-d20e5a2f95ea)
-
-
+![vertigo drawio (2)](https://github.com/Gui-mp8/postgresql_to_databricks/assets/94998733/8f6a59a3-44b2-4821-89a6-5bfa71645052)
