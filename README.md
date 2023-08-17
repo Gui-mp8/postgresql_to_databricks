@@ -33,7 +33,7 @@ Este desafio consiste em extrair dados de um PostgreSQL, transformá-los em parq
 ## Executando o Desafio
 
 ### Diagrama de ER do banco disponibilizado.
-Link para o [dbdiagram.io](https://dbdiagram.io/home)
+Link para criar o [dbdiagram.io](https://dbdiagram.io/home)
 
 ![vertigo-desafio](https://github.com/Gui-mp8/postgresql_to_databricks/assets/94998733/0a62525a-7ffe-4105-9d6b-103f8227e96f)
 
