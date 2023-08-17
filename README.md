@@ -21,13 +21,13 @@ Este desafio consiste em extrair dados de um PostgreSQL, transformá-los em parq
 </table>
 
 ## Pré Requisitos
-- É necessário a criação de uma conta na [Azure](https://azure.microsoft.com/pt-br/free/).
+- É necessária a criação de uma conta na [Azure](https://azure.microsoft.com/pt-br/free/).
 
-**OBS**É possível conseguir um período gratuito de utilização e créditos para serem utilizados.
+**OBS**: É possível conseguir um período gratuito de utilização e créditos para serem utilizados.
 
 - É necessária a conexão ao banco ``Ecommerce website database`` neste [site](https://uibakery.io/sql-playground). Ele é um banco ``PostgreSQL``.
 
-**OBS**Este banco pode ser visualizado usando o [DBeaver](https://dbeaver.io/download/).
+**OBS**: Este banco pode ser visualizado usando o [DBeaver](https://dbeaver.io/download/).
 
 ## Executando o Desafio
 
